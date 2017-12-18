@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="plugin" group="content" method="upgrade">
+	<name>plg_content_etdcustomjscss</name>
+	<author>ETD Solutions</author>
+	<creationDate>avril 2015</creationDate>
+	<copyright>Copyright (C) 2015-2018 ETD Solutions. All rights reserved.</copyright>
+	<license>private</license>
+	<authorEmail>contact@etd-solutions.com</authorEmail>
+	<authorUrl>https://etd-solutions.com</authorUrl>
+	<version>1.0.0</version>
+	<description>Custom JS and CSS per article</description>
+	<files>
+		<filename plugin="etdcustomjscss">etdcustomjscss.php</filename>
+	</files>
+
+</extension>
